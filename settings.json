@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "minecraftarc-ZuWF.aternos.me",
     "port": 58553,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
